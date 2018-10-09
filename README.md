@@ -1,4 +1,4 @@
-# gshop
+# shop
 
 > A Vue.js project
 
